@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/trading_optimizer.dir/src/main.cpp.o -o trading_optimizer  src/data/libdata_handler.a src/strategy/libstrategy.a src/backtesting/libbacktester.a src/ga/libgenetic_optimizer.a src/nn/libtf_model.a src/backtesting/libbacktester.a src/strategy/libstrategy.a src/data/libdata_handler.a 

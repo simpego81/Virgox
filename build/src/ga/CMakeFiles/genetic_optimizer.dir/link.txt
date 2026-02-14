@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgenetic_optimizer.a CMakeFiles/genetic_optimizer.dir/GeneticOptimizer.cpp.o
+/usr/bin/ranlib libgenetic_optimizer.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbacktester.a CMakeFiles/backtester.dir/Backtester.cpp.o
+/usr/bin/ranlib libbacktester.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtf_model.a CMakeFiles/tf_model.dir/TFModel.cpp.o
+/usr/bin/ranlib libtf_model.a
